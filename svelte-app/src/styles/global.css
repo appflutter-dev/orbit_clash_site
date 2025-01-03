@@ -1,0 +1,30 @@
+/* src/styles/global.css */
+:root {
+    --primary-color: #4caf50; /* Green */
+    --secondary-color: #ffffff; /* White */
+    --font-family: 'Arial', sans-serif;
+  }
+  
+  body {
+    margin: 0;
+    font-family: var(--font-family);
+  }
+  
+  h1, h2, h3, h4, h5, h6 {
+    color: var(--primary-color);
+  }
+  
+  .app-header {
+    background-color: var(--primary-color);
+    color: var(--secondary-color);
+    padding: 1rem;
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+  }
+  
+  .store-link img {
+    width: 150px;
+    margin: 0.5rem;
+  }
+  
