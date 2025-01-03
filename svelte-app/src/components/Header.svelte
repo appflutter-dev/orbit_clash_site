@@ -3,7 +3,7 @@
 </script>
 
 <header class="app-header">
-  <img src="icon_app.png" alt="Cinema Quote Logo" class="app-logo" />
+  <img src="icon_app.png" alt="Orbit Clash Logo" class="app-logo" />
   <h1 class="app-title">{title}</h1>
 </header>
 
